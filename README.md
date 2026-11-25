@@ -98,4 +98,4 @@ This analysis shows which patients are most at risk of coming back within 30 day
 
 # Author
 Franklin Chisom
-Data Analyst | Aspiring Data Scientist | SQL, Python, R, and Power BI Enthusiast
+Data Analyst | SQL, Python, R, and Power BI Enthusiast
